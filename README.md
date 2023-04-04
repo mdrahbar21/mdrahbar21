@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @mdrahbar21
-- 👀 I’m interested in cybersecurity, CP,securities,webDev, much more...
-- 🌱 I’m currently learning C++ and webDev
-- 📫 How to reach me... Contact me at Linkedin https://www.linkedin.com/in/md-rahbar-0576071a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN7qYGQc5T4KVHk%2BqBt1aYQ%3D%3D
-- 
+Hi there 👋, I'm Md Rahbar 
 
-<!---
-mdrahbar21/mdrahbar21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 I'm a sophomore in the Dept. of Civil Engineering at Indian Institute of Technology, Kanpur.
+
+- 📫 How to reach me: [mdrahbar21@iitk.ac.in](mailto:mdrahbar21@iitk.ac.in)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love watching anime and listening to music.
+
+
+
+## 📊 GitHub Stats:
+
+[![Rahbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrahbar21&show_icons=true&theme=radical)](https://github.com/mdrahbar21/github-readme-stats)
+
+## 🛠️ My Top Skills:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahbar21&layout=compact&theme=radical)](https://github.com/mdrahbar21/github-readme-stats)
+
+## 📫 Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mdrahbar21)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rowdyrahbar/)
+[<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://mdrahbar21.github.io/portfolio/)
+
