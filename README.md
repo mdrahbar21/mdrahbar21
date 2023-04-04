@@ -8,14 +8,6 @@
 
 
 
-## 📊 GitHub Stats:
-
-[![Rahbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrahbar21&show_icons=true&theme=radical)](https://github.com/mdrahbar21/github-readme-stats)
-
-## 🛠️ My Top Skills:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahbar21&layout=compact&theme=radical)](https://github.com/mdrahbar21/github-readme-stats)
-
 ## 📫 Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mdrahbar21)
