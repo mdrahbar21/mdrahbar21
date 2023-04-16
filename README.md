@@ -13,8 +13,9 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rowdyrahbar/)
 [<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://mdrahbar21.github.io/portfolio/)
 <br>
+---
 
-[![Rahbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahbar21)](https://github.com/mdrahbar21/github-readme-stats)
+<!-- [![Rahbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrahbar21)](https://github.com/mdrahbar21/github-readme-stats) -->
 <table style="width:100%">
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=mdrahbar21&show_icons=true&hide_border=true&hide=issues&theme=radical" /></th>
