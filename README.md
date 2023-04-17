@@ -11,7 +11,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mdrahbar21)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rowdyrahbar/)
-[<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://mdrahbar21.github.io/portfolio/)
+<!-- [<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://mdrahbar21.github.io/portfolio/) -->
 <br>
 ---
 
