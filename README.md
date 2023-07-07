@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Md Rahbar 
 
-- 🌱 I'm a sophomore in the Dept. of Civil Engineering at Indian Institute of Technology, Kanpur.
+- 🌱 I'm a junior undergrad in the Dept. of Civil Engineering at Indian Institute of Technology, Kanpur.
 - 📫 Reach out to me at: [mdrahbar21@iitk.ac.in](mailto:mdrahbar21@iitk.ac.in)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching anime and listening to music.
