@@ -32,10 +32,10 @@
 
 
 ## 📈 My GitHub Activity:
-
+<details>
   <summary>Rahbar's GitHub Activity</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rahbar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahbar21&theme=chartreuse-dark&custom_title=Rahbar's%20contribution%20graph&hide_border=true" /></a>
-
+</details>
 
 
 
