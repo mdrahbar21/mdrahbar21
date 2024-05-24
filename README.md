@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Md Rahbar 
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=mdrahbar21) <br> -->
-![](https://komarev.com/ghpvc/?username=mdrahbar21&label=PROFILE+VIEWS&color=blue&style=plastic)<br>
+![](https://komarev.com/ghpvc/?username=mdrahbar21&label=PROFILE+VIEWS&color=blue&style=plastic)<br>  from 24th May,2024 17:51 IST
 
 - 🌱 I'm a final year undergrad in the Dept. of Civil Engineering at Indian Institute of Technology, Kanpur.
 - 📫 Reach out to me at: [mdrahbar21@iitk.ac.in](mailto:mdrahbar21@iitk.ac.in)
