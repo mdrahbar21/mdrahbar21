@@ -34,10 +34,11 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rahbar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahbar21&theme=chartreuse-dark&custom_title=Rahbar's%20contribution%20graph&hide_border=true" /></a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/mdrahbar21/mdrahbar21/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/mdrahbar21/mdrahbar21/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!--
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![](https://komarev.com/ghpvc/?username=mdrahbar21)
+![](https://komarev.com/ghpvc/?username=shahradelahi) -->
 
 ## 📫 Connect with me:
 
