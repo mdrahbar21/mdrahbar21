@@ -1,10 +1,12 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdrahbar21&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20am%20Md%20Rahbar&descSize=30" />
+</p>
 
-## Hi there 👋, I'm Md Rahbar
+[![trophy center](https://github-profile-trophy.vercel.app/?username=mdrahbar21&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=mdrahbar21) <br> -->
 
-![](https://komarev.com/ghpvc/?username=mdrahbar21&label=PROFILE+VIEWS&color=red&style=plastic) <sub><sup>from 24th May,2024 17:51 IST</sup></sub> <br>
+![](https://komarev.com/ghpvc/?username=mdrahbar21&label=PROFILE+VIEWS&color=grey&style=for-the-badge) <sub><sup>from 24th May,2024 17:51 IST</sup></sub> <br>
 
 - 🌱 I'm a final year undergrad in the Dept. of Civil Engineering at Indian Institute of Technology, Kanpur.
 - 📫 Reach out to me at: [mdrahbar21@iitk.ac.in](mailto:mdrahbar21@iitk.ac.in)
@@ -12,27 +14,27 @@
 - ⚡ Fun fact: I love watching anime and listening to music.
 - 🏐 Interested Sports: Basketball, Volleyball and Water Polo
 
-## 📊 My Stats:
+## 📊 Streaks, Stats and Activity:
 
 <p align="center">
-    <img width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=mdrahbar21&show_icons=true&theme=vision-friendly-dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahbar21&size_weight=0.5&count_weight=0.5&layout=compact&theme=chartreuse-dark&langs_count=8" />
+    <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mdrahbar21&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF" />
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
+    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=mdrahbar21&theme=highcontrast&currStreakNum=FF0000&card_height=205&ring=FF0000&fire=FF0000&border=000000&currStreakLabel=FF0000" />
+    <br/>
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
+<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahbar21&theme=high-contrast&area_color=FF0000&area=true&point=FF0000&line=FF0000&hide_border=true&" />
+    <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahbar21&langs_count=8&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+    <br/>
+    <div id="header" align="center">
+      <img src="https://komarev.com/ghpvc/?username=mdrahbar21&style=for-the-badge&color=grey" alt=""/> <sub><sup>from 24th May,2024 17:51 IST</sup></sub>
+    </div>
+    <!-- https://github.com/anuraghazra/github-readme-stats // WakaTime Stats-->
+<!-- <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?mdrahbar21&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" /> -->
 </p>
 
 ---
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mdrahbar21&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdrahbar21&style=for-the-badge&color=orange" alt=""/> <sub><sup>from 24th May,2024 17:51 IST</sup></sub>
-</div>
-
-## 📈 My GitHub Activity:
-
-<p align ="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rahbar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahbar21&theme=chartreuse-dark&custom_title=Rahbar's%20contribution%20graph&hide_border=true" /></a>
-</p>
 
 <!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
