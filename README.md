@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20am%20Md%20Rahbar&descSize=30" />
 </p>
 
-[![trophy center](https://github-profile-trophy.vercel.app/?username=mdrahbar21&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy center](https://github-profile-trophy.vercel.app/?username=mdrahbar21&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=mdrahbar21) <br> -->
 
