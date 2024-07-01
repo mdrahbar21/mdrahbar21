@@ -25,7 +25,7 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahbar21&theme=high-contrast&area_color=FF0000&area=true&point=FF0000&line=FF0000&hide_border=true&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahbar21&langs_count=8&&size_weight=0.4&count_weight=0.6&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahbar21&langs_count=10&&size_weight=0.4&count_weight=0.6&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" /> 
     <br/>
     <sub><sup>size weight of files is taken as 0.4 and count weight is taken as 0.6</sup></sub>
     <div id="header" align="center">
