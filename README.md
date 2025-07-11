@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=mdrahbar21&label=PROFILE+VIEWS&color=grey&style=for-the-badge) <sub><sup>from 24th May,2024 17:51 IST</sup></sub> <br>
 
 - 🌱 I'm a final year undergrad in the Dept. of Civil Engineering at Indian Institute of Technology, Kanpur.
-- 📫 Reach out to me at: [mdrahbar21@iitk.ac.in](mailto:rahbarkhan54727@gmail.com)
+- 📫 Reach out to me at: [rahbarkhan54727@gmail.com](mailto:rahbarkhan54727@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching anime and listening to music.
 - 🏐 Interested Sports: Basketball, Volleyball and Water Polo
